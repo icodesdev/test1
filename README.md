@@ -3,4 +3,4 @@ test1
 
 my first rep
 
-test url [a link] (http://google.com) here.
+test [url] (http://google.com) here.
