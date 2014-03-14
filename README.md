@@ -13,3 +13,7 @@ code
 <script type="text/javascript" src="js/test.js"></script>
 ```
 
+image
+=====
+
+![ScreenShot](/snap1.jpg)
